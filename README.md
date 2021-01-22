@@ -1,4 +1,5 @@
-#A general purpopse map ADT repurposed to find the shortest path between locations. A csv file containing locations and coordinates must be supplied first to populate the mape.
+# Mapping program with directions.
+## A general purpopse map ADT repurposed to find the shortest path between two locations. A csv file containing locations and coordinates must be supplied first to populate the map.
 Command options:
  - "m" - Menu that lists all availabe options.
  - "b" - Lists all buildings in the map.
